@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.5.0/LifeSimulator-0.5.0.apk",
-  "notes": "Single normal start, career and business money loop, HUD cleanup, timed opportunities, and goals removal."
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.6.0/LifeSimulator-0.6.0.apk",
+  "notes": "Full UI redesign: a cleaner dark command-center dashboard with a unified, less-cluttered layout across the Dashboard, Actions, Progress, and History tabs. Same game systems and saves."
 }
