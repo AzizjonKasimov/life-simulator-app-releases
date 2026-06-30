@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.7.0/LifeSimulator-0.7.0.apk",
-  "notes": "Money matters now. New Money tab: a savings account that earns interest, investments (Index / Stocks / Crypto) that swing every week, and a shop of life-changing assets (car, nicer apartment, gym, laptop, therapist, insurance, getaway). Jobs and business are far clearer — one progress bar at a time. Real decision events with consequences, and interviews and client wins are now skill-weighted gambles with visible odds. Net worth is your score. Note: this overhaul resets your previous save."
+  "versionCode": 8,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.8.0/LifeSimulator-0.8.0.apk",
+  "notes": "Clearer money and a faster Actions screen. See exactly how much interest your savings earn (lifetime total + next payday). New Auto-Save & Invest: set a percentage of spare cash to move to savings/investments automatically each payday. Redesigned Actions tab with category filters and compact, scannable rows. Your existing save carries over."
 }
