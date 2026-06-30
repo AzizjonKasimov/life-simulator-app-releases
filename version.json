@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.1.0/LifeSimulator-0.1.0.apk",
-  "notes": "Initial Android life simulator release."
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.2.0/LifeSimulator-0.2.0.apk",
+  "notes": "V2 command-center dashboard rebuild with richer life systems, goals, finances, career, relationships, events, and Room v2 save reset."
 }
