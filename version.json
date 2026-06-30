@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.4.0/LifeSimulator-0.4.0.apk",
-  "notes": "Daily focus, timed opportunities, action feedback, and dashboard prioritization."
+  "versionCode": 5,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.5.0/LifeSimulator-0.5.0.apk",
+  "notes": "Single normal start, career and business money loop, HUD cleanup, timed opportunities, and goals removal."
 }
