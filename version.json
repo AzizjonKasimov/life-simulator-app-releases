@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.9.2",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.9.2/LifeSimulator-0.9.2.apk",
-  "notes": "Remove the random decision pop-ups. Passive flavor events stay; day-end no longer interrupts you with dilemmas."
+  "versionCode": 12,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.10.0/LifeSimulator-0.10.0.apk",
+  "notes": "BitLife-style rebuild (M1): born as a person in the real world; each Age Up lives one year of seeded life events and choices, with education, a light job layer, family you can interact with, death, and a legacy screen. This replaces the finance simulator."
 }
