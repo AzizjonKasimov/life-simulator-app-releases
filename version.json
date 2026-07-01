@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.9.0/LifeSimulator-0.9.0.apk",
-  "notes": "Depth and goals: diminishing gigs, rising costs, a business you must run (client churn + a new Firm tier), big-ticket money sinks (home, rentals, franchise, degree), and a goal ladder to Financial Independence."
+  "versionCode": 10,
+  "versionName": "0.9.1",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.9.1/LifeSimulator-0.9.1.apk",
+  "notes": "Remove the status label (e.g. Wealthy) from the header."
 }
