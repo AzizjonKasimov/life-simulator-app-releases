@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.9.1",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.9.1/LifeSimulator-0.9.1.apk",
-  "notes": "Remove the status label (e.g. Wealthy) from the header."
+  "versionCode": 11,
+  "versionName": "0.9.2",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.9.2/LifeSimulator-0.9.2.apk",
+  "notes": "Remove the random decision pop-ups. Passive flavor events stay; day-end no longer interrupts you with dilemmas."
 }
