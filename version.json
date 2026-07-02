@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.10.0/LifeSimulator-0.10.0.apk",
-  "notes": "BitLife-style rebuild (M1): born as a person in the real world; each Age Up lives one year of seeded life events and choices, with education, a light job layer, family you can interact with, death, and a legacy screen. This replaces the finance simulator."
+  "versionCode": 13,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.11.0/LifeSimulator-0.11.0.apk",
+  "notes": "M2 breadth: university and graduate degrees, 21 careers with promotion ladders, romance to marriage to children, more activities (dating, vacations, adopting a pet), contextual relationship interactions, and ~106 life events. Your existing v0.10.0 save carries forward."
 }
