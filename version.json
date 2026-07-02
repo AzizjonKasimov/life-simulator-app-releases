@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "0.11.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.11.0/LifeSimulator-0.11.0.apk",
-  "notes": "M2 breadth: university and graduate degrees, 21 careers with promotion ladders, romance to marriage to children, more activities (dating, vacations, adopting a pet), contextual relationship interactions, and ~106 life events. Your existing v0.10.0 save carries forward."
+  "versionCode": 14,
+  "versionName": "0.12.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/life-simulator-app-releases/releases/download/v0.12.0/LifeSimulator-0.12.0.apk",
+  "notes": "M3 depth: a health & illness system (chronic and acute conditions you can treat at the doctor), crime and prison (pull off seeded jobs for a payoff, or get caught and serve time), assets that build your net worth (cars, homes, luxuries), personality traits rolled at birth, achievements to unlock, richer relationship interactions, and 200+ life events (up from ~106). Your existing v0.11.0 save carries forward."
 }
